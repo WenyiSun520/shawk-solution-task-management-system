@@ -7,10 +7,7 @@ This product includes three major components:
 - Team member profile and task lists
 - Project tracking page. 
 
-# Figma Prototype
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNkIhzZUkG7tEyQOjSsZHDj%2FShawkSolution-TMS-Prototype%3Fnode-id%3D137%253A720%26starting-point-node-id%3D137%253A720" allowfullscreen></iframe>
-
+# [Figma Prototype](https://www.figma.com/proto/NkIhzZUkG7tEyQOjSsZHDj/ShawkSolution-TMS-Prototype?node-id=137%3A720&starting-point-node-id=137%3A720&scaling=scale-down)
 
 # [Prototype Reference Document](https://docs.google.com/document/d/1cuZ0RojJlK7CYYq7POdE-Z07R27VrrO_OjoTYCR4OzQ/edit?usp=sharing)
 
